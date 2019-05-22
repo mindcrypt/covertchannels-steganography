@@ -2,6 +2,26 @@
 
 * http://www.jjtc.com/Steganography/tools.html
 
+https://github.com/RobinDavid/LSB-Steganography
+https://github.com/lukechampine/jsteg
+https://github.com/DominicBreuker/stego-toolkit
+https://github.com/matthewgao/F5-steganography
+https://github.com/fbngrm/Matroschka
+https://github.com/harveyslash/Deep-Steganography
+https://github.com/danielcardeenas/AudioStego
+https://github.com/ktekeli/audio-steganography-algorithms
+https://github.com/Paradoxis/StegCracker
+https://github.com/b3dk7/StegExpose
+https://github.com/h3xx/jphs
+https://github.com/fredley/StegDroid
+https://github.com/cryptolok/SteCoSteg
+https://github.com/AlphaDelta/PNG-Mask
+https://github.com/jes/chess-steg
+https://github.com/jbochi/strogonoff
+https://github.com/MrAdamBoyd/Pictograph
+https://github.com/bannsec/stegoVeritas
+https://github.com/owencm/secretbook
+https://github.com/beardog108/snow10
 
 # Steganalysis tool
 
