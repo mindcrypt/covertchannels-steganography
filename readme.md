@@ -2,6 +2,36 @@
 
 * http://www.jjtc.com/Steganography/tools.html
 
+https://github.com/TryCatchHCF/Cloakify
+https://github.com/ahhh/Stego_Dropper
+
+https://github.com/achorein/silenteye
+https://github.com/alexandremuzio/deep-steg
+https://github.com/Heisenberk/StegX
+https://github.com/owencm/js-steg
+https://github.com/surg0r/steg
+https://github.com/LabunskyA/StegoProxy
+https://github.com/adityangud/Video-Steganography-for-Piracy-Prevention
+https://github.com/syvaidya/openstego
+https://github.com/beatsbears/steg
+https://github.com/lozarcher/Stegbook
+https://github.com/thoppe/PDF_steganography
+https://github.com/raulfraile/steganography_talk
+https://github.com/vgmoose/ascii-steganography
+https://github.com/gitbrew/voices
+https://github.com/th3gundy/stegCracker
+https://github.com/daniellerch/stego-retweet
+https://github.com/adyra/ARMS
+https://github.com/h-lame/stegosaurus
+https://github.com/Rbcafe/Outguess
+https://github.com/manmar92/BitStegNet
+
+https://github.com/pboueke/stego-wave
+https://github.com/maksimvrs/StegoMP3
+https://github.com/Epredator/jSteganographiX
+
+
+
 https://github.com/RobinDavid/LSB-Steganography
 https://github.com/lukechampine/jsteg
 https://github.com/DominicBreuker/stego-toolkit
@@ -26,6 +56,8 @@ https://github.com/beardog108/snow10
 # Steganalysis tool
 
 http://www.jjtc.com/Steganalysis/
+https://www.guillermito2.net/stegano/
+
 
 # Articles
 https://en.wikipedia.org/wiki/Steganography_tools
