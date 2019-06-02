@@ -2,12 +2,11 @@
 
 * Information Hiding Techniques for Steganography and Digital Watermarking - https://www.amazon.es/Information-Techniques-Steganography-Watermarking-Computing/dp/1580530354/ref=sr_1_111?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514922&s=gateway&sr=8-111
 * Information Hiding: Steganography and Watermarking-Attacks and Countermeasures - https://www.amazon.es/Information-Hiding-Steganography-Watermarking-Attacks-Countermeasures/dp/1461369673/ref=sr_1_50?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514854&s=gateway&sr=8-50
-* https://www.amazon.es/Digital-Watermarking-Steganography-Ingemar-Cox/dp/0124054765/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514737&s=gateway&sr=8-8
-* https://www.amazon.es/Hiding-Plain-Sight-Steganography-Communication/dp/0471469793/ref=sr_1_20?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-20
-* https://www.amazon.es/Steganography-Digital-Media-Principles-Applications-ebook/dp/B00INYG7S4/ref=sr_1_24?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-24
-* https://www.amazon.es/Investigators-Steganography-English-Gregory-Kipper-ebook/dp/B00UV99Y9S/ref=sr_1_26?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-26
-* https://www.amazon.es/Watermarking-Steganography-Kaufmann-Multimedia-Information-ebook/dp/B004N3CJAE/ref=sr_1_33?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514819&s=gateway&sr=8-33
-* https://www.amazon.es/Disappearing-Cryptography-Information-Steganography-Watermarking-ebook/dp/B002ZJSUYM/ref=sr_1_36?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514819&s=gateway&sr=8-36
+* Digital Watermarking and Steganography - https://www.amazon.es/Digital-Watermarking-Steganography-Ingemar-Cox/dp/0124054765/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514737&s=gateway&sr=8-8
+* Hiding in Plain Sight: Steganography and the Art of Covert Communication - https://www.amazon.es/Hiding-Plain-Sight-Steganography-Communication/dp/0471469793/ref=sr_1_20?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-20
+* Steganography in Digital Media: Principles, Algorithms, and Applications - https://www.amazon.es/Steganography-Digital-Media-Principles-Applications-ebook/dp/B00INYG7S4/ref=sr_1_24?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-24
+* Investigator's Guide to Steganography - https://www.amazon.es/Investigators-Steganography-English-Gregory-Kipper-ebook/dp/B00UV99Y9S/ref=sr_1_26?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514780&s=gateway&sr=8-26
+* Disappearing Cryptography: Information Hiding: Steganography and Watermarking - https://www.amazon.es/Disappearing-Cryptography-Information-Steganography-Watermarking-ebook/dp/B002ZJSUYM/ref=sr_1_36?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514819&s=gateway&sr=8-36
 
 * http://www.ws.binghamton.edu/fridrich/publications.html
 * Privacidad y ocultación de información digital. Esteganografía. Protegiendo y atacando redes informáticas - http://www.ra-ma.es/libros/PRIVACIDAD-Y-OCULTACION-DE-INFORMACION-DIGITAL-ESTEGANOGRAFIA/92742/978-84-9964-644-2
