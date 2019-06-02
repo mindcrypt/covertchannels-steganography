@@ -1,3 +1,5 @@
+Many people ask me how to start in the field of steganography/covert channels or how to improve their skills. I wrote this recopilation to help them with some good references, tools and books that I used and read (I will add more soon).
+
 # Books & Papers/Articles
 
 * Information Hiding Techniques for Steganography and Digital Watermarking - https://www.amazon.es/Information-Techniques-Steganography-Watermarking-Computing/dp/1580530354/ref=sr_1_111?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=steganography&qid=1558514922&s=gateway&sr=8-111
