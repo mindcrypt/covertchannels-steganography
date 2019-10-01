@@ -21,6 +21,7 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://en.wikipedia.org/wiki/Covert_channel
 * http://gray-world.net/projects.shtml.html
 * A guide to understanding cover channels analysis of trusted systems - https://www.researchgate.net/publication/235170603_Covert_Channel_Analysis_of_Trusted_Systems_A_Guide_to_Understanding/download
+* Digital Steganography as an Advanced Malware Detection Evasion Technique - https://medium.com/@z3roTrust/digital-steganography-as-an-advanced-malware-detection-evasion-technique-40d4eeb19830
 
 # CTFS
 
