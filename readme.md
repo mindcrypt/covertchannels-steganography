@@ -94,6 +94,7 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://hord.ca/projects/deogol/intro.html
 * https://jabriffa.wordpress.com/other/hugo-source-code/
 * WOW - http://dde.binghamton.edu/download/stego_algorithms/
+* https://github.com/DimitarPetrov/stegify
 
 # Steganalysis tools
 
@@ -112,3 +113,17 @@ Many people ask me how to start in the field of steganography/covert channels or
 * Image steganalysis using state-of-the-art machine learning techniques - https://github.com/daniellerch/aletheia
 * https://github.com/daniellerch/papers
 * https://github.com/rcouturier/steganalysis_with_CNN_for_same_key_images
+* http://www.deepsteg.com/ -Deepsteg performs visual attacks, structural attacks, and statistical attacks (including deep learning based attacks) to detect files hidden within images and other files. Eventually, we want to extract the hidden data from these files.
+* https://github.com/Charleswyt/tf_audio_steganalysis
+* https://github.com/daniellerch/aletheia
+* https://github.com/rabi3elbeji/SteganalysisCNN
+* https://github.com/YassineYousfi/alaska
+* https://github.com/YangzlTHU/IStego100K - IStego100K: Large-scale Image Steganalysis Dataset
+* https://github.com/Ge0rg3/StegOnline
+* https://github.com/quangntenemy/Steganabara
+* https://github.com/rokkuran/stegasawus
+* https://github.com/rabi3elbeji/udss
+* https://github.com/Chenlang2018/BreakingSteganalysisGAN
+* https://github.com/jessica0x73/steganalyse
+* https://github.com/Paradoxis/StegCracker
+* https://github.com/welloworld/welloganography-solver
