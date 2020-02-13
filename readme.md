@@ -98,6 +98,9 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://github.com/DimitarPetrov/stegify
 * https://pequalsnp-team.github.io/cheatsheet/steganography-101
 * https://github.com/peewpw/Invoke-PSImage
+* https://github.com/endgameinc/instegogram
+* http://stegtorrent.sourceforge.net/
+* https://www.researchgate.net/publication/51917905_Sending_Hidden_Data_via_Google_Suggest
 
 # Steganalysis tools
 * https://github.com/zed-0xff/zsteg
