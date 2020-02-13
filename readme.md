@@ -97,6 +97,7 @@ Many people ask me how to start in the field of steganography/covert channels or
 * WOW - http://dde.binghamton.edu/download/stego_algorithms/
 * https://github.com/DimitarPetrov/stegify
 * https://pequalsnp-team.github.io/cheatsheet/steganography-101
+* https://github.com/peewpw/Invoke-PSImage
 
 # Steganalysis tools
 * https://github.com/zed-0xff/zsteg
