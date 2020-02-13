@@ -98,7 +98,8 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://github.com/DimitarPetrov/stegify
 
 # Steganalysis tools
-
+* https://github.com/zed-0xff/zsteg
+* https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve
 * https://github.com/th3gundy/stegCracker
 * http://www.jjtc.com/Steganalysis/
 * https://www.guillermito2.net/stegano/
