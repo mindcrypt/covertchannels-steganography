@@ -139,3 +139,4 @@ Many people ask me how to start in the field of steganography/covert channels or
 
 # Stegomalware
 * https://github.com/lucacav/steg-in-the-wild
+* #Eko2020 Main Track | Dr. Alfonso Muñoz: Your polyglot belongs to me. Steganography in modern APTs - https://www.youtube.com/watch?v=Z50K2Y0DMUI
