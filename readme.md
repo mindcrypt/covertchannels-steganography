@@ -101,11 +101,16 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://github.com/endgameinc/instegogram
 * http://stegtorrent.sourceforge.net/
 * https://www.researchgate.net/publication/51917905_Sending_Hidden_Data_via_Google_Suggest
+* https://github.com/vgmoose/ascii-steganography
+* https://github.com/RobinDavid/LSB-Steganography
+* https://github.com/ktekeli/audio-steganography-algorithms
+* https://github.com/cryptolok/SteCoSteg
 
 # Steganalysis tools
 * https://github.com/zed-0xff/zsteg
 * https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve
 * https://github.com/th3gundy/stegCracker
+* https://github.com/RickdeJager/stegseek
 * http://www.jjtc.com/Steganalysis/
 * https://www.guillermito2.net/stegano/
 * stegdetect - http://www.outguess.org
