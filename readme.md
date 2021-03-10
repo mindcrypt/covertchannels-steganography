@@ -141,6 +141,7 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://github.com/welloworld/welloganography-solver
 * https://www.mcafee.com/enterprise/en-sg/downloads/free-tools/steganography.html
 * https://github.com/IncideDigital/Mistica
+* https://github.com/javierwilson/cookie-stego
 
 # Stegomalware
 * https://github.com/lucacav/steg-in-the-wild
