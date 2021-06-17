@@ -105,9 +105,12 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://github.com/RobinDavid/LSB-Steganography
 * https://github.com/ktekeli/audio-steganography-algorithms
 * https://github.com/cryptolok/SteCoSteg
+* https://github.com/cedricbonhomme/Stegano
+* https://github.com/ragibson/Steganography/tree/master/stego_lsb
 
 # Steganalysis tools
 * https://github.com/zed-0xff/zsteg
+* https://stegonline.georgeom.net/upload
 * https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve
 * https://github.com/th3gundy/stegCracker
 * https://github.com/RickdeJager/stegseek
@@ -142,6 +145,19 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://www.mcafee.com/enterprise/en-sg/downloads/free-tools/steganography.html
 * https://github.com/IncideDigital/Mistica
 * https://github.com/javierwilson/cookie-stego
+* https://github.com/Zeecka/AperiSolve
+* https://github.com/librauee/Steganalysis
+* https://github.com/Caenorst/YeNet-Pytorch
+* https://github.com/yedmed/steganalysis_with_CNN_Yedroudj-Net
+* https://github.com/brijeshiitg/Pytorch-implementation-of-SRNet
+* https://github.com/luca-m/lsb-toolkit
+* https://github.com/jiangszzzzz/CAECNNcode
+* https://github.com/daniellerch/stegolab
+* https://github.com/aminfazy/DL_steganalysis
+* https://github.com/Linyuzhen/audio_steganalysis
+* https://github.com/bolin-chen/audio-steganalysis-cnn
+* https://github.com/deepsteg/deepsteg
+* https://github.com/dfish13/Stegasaurus2
 
 # Stegomalware
 * https://github.com/lucacav/steg-in-the-wild
