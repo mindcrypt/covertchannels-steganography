@@ -109,6 +109,7 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://github.com/ragibson/Steganography/tree/master/stego_lsb
 
 # Steganalysis tools
+* http://vsl.sourceforge.net/
 * https://book.hacktricks.xyz/stego/stego-tricks
 * https://github.com/zed-0xff/zsteg
 * https://stegonline.georgeom.net/upload
