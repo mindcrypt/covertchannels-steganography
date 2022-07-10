@@ -107,6 +107,7 @@ Many people ask me how to start in the field of steganography/covert channels or
 * https://github.com/cryptolok/SteCoSteg
 * https://github.com/cedricbonhomme/Stegano
 * https://github.com/ragibson/Steganography/tree/master/stego_lsb
+* Steganography Online Codec https://www.pelock.com/products/steganography-online-codec
 
 # Steganalysis tools
 * http://vsl.sourceforge.net/
